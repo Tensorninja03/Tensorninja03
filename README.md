@@ -52,7 +52,7 @@ Developed a dynamic Power BI dashboard for SHIELD Insurance, analyzing customer 
 - 🎓 **Data Analytics Bootcamp 3.0** | Codebasics
 - 📊 **Exploratory Data Analysis (EDA) Course** | Accenture via Future Skills Prime
 - 📜 **HRM Strategy Execution** | IIM Ahmedabad via Swayam (81.5%)
-- ⭐ **5-star Gold Badge in SQL** | HackerRank
+- ⭐ **5-star Gold Badge in SQL** | [***HackerRank***](https://www.hackerrank.com/profile/19ismo10)
 
 ---
 
