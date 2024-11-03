@@ -7,7 +7,6 @@ Welcome to my GitHub! I'm a data enthusiast with a unique background in healthca
 ## 🌟 About Me
 
 - 🎓 **MBA Student** at the University of Hyderabad, specializing in Healthcare & Hospital Management
-- 👁️ Former **Optometrist Intern** at Lenskart
 - 📊 Data Analytics Intern with hands-on experience in data-driven projects
 - 💡 Passionate about using data to innovate in **Healthcare and Hospitality**
 
