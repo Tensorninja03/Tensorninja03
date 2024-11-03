@@ -15,9 +15,6 @@ Welcome to my GitHub! I'm a data enthusiast with a unique background in healthca
 
 ## 💼 Work & Projects
 
-### 📈 Inventory Management Optimization for Medical Supplies
-Optimized inventory management for medical supplies in a hospital setting as part of my MBA program, leveraging data analytics to enhance efficiency.
-
 ### 🏨 AtliQ Grands: A Strategic Hospitality Analysis 🌐
 Analyzed occupancy, revenue, and booking trends for a fictional hotel chain with locations across four cities, guiding revenue optimization, service quality improvement, and booking strategies. This project involved data cleaning, transformation, and insightful visualizations.
 
