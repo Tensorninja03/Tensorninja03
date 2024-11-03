@@ -47,7 +47,7 @@ Conducted a deep dive into customer segmentation, age group vs. policy preferenc
 I'm always open to connecting with fellow data enthusiasts, healthcare professionals, and anyone interested in impactful projects. Feel free to reach out!
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/yourprofile/" target="_blank">
+  <a href="https://www.linkedin.com/in/hemanthda1" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:jasonhemanth4567@gmail.com">
@@ -57,7 +57,8 @@ I'm always open to connecting with fellow data enthusiasts, healthcare professio
 
 ---
 
-![Data Analytics]([https://images.unsplash.com/photo-1531497865147-8225c83057c2?ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80](https://images.unsplash.com/photo-1666875753105-c63a6f3bdc86?q=80&w=2073&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D))
+![Data Analytics](https://images.unsplash.com/photo-1666875753105-c63a6f3bdc86?q=80&w=2073&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
 
 > “Data is a precious thing and will last longer than the systems themselves.” - Tim Berners-Lee
 
